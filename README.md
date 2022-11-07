@@ -1,1 +1,1 @@
-This repo contains the programs that i written to learn programming languages like __java, c/c++__ <br> most of the programs are from online tutorials from youtube channel named 'apna college' and some programs are from coding platforms like codechef, codeforces etc.
+This repo contains the programs that i written to learn programming languages like __java, c/c++__ <br> Most of the programs are from online tutorials from youtube channel named 'apna college' and some programs are from coding platforms like codechef, codeforces etc.
